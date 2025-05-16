@@ -112,9 +112,4 @@ If you’re interested in contributing to any of these features:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
 
